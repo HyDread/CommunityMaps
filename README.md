@@ -1,13 +1,36 @@
-# CommunityMaps
+# Peach's Castle Alt Version
 
-This is a collection of community maps. 
+In this edited board you now can buy stocks at the stockbroker. However, the bank has moved at the lower mid area of the map, so make sure to plan your routes accordingly in order to become victorious.
 
-<dl>
-  <a href="https://github.com/FortuneStreetModding/CommunityMaps/archive/master.zip"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Download_Button.svg"/></a>
-</dl>
+## Screenshots
 
-## How to contribute
+https://ibb.co/wzYpMvV
+https://ibb.co/HzstW7B
 
-If you want to contribute and upload your own map, check this guide: [How to upload a new map](../../tree/howToUploadNewMap/README.md)
+## Features
 
-**Please test your map at least one full game before creating a pull request!**
+| Map Properties    | Value      |
+| ----------------- | ---------- |
+| Initial Cash      | 1650       |
+| Target Amount     | 20000      | 
+| Base Salary       | 300        | 
+| Salary Increment  | 150        | 
+| Maximum Dice Roll | 7          | 
+| Looping Mode      | No Looping | 
+
+## Prerequisites
+
+- It should replace the original board of Peach's Castle (2-07-hidari.frb).
+
+## Changelog
+
+- You start with 10% more cash compared to the original board as the route.
+
+
+### v1
+- Initial Release
+
+## Authors
+
+- Square Enix
+- Edited by Dread
